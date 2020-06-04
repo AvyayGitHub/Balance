@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: black;
+}
+
+body{
+    background-color: lavender;
+}
